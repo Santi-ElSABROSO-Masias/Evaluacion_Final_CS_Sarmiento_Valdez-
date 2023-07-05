@@ -38,7 +38,7 @@ public class App extends Application {
 	datoPersona.add(new Persona("Werner", "Meyer"));
 	datoPersona.add(new Persona("Lydia", "Kunz"));
 	datoPersona.add(new Persona("Anna", "Best"));
-	datoPersona.add(new Persona("Stefan", "Meier"));
+	datoPersona.add(new Persona("Stefhan", "Meier"));
 	datoPersona.add(new Persona("Martin", "Mueller"));
     }
     /**

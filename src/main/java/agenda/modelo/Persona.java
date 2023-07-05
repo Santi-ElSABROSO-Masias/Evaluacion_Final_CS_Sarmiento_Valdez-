@@ -12,7 +12,7 @@ import javafx.beans.property.SimpleStringProperty;
 /**
  *Modelos de clase de persona
  * 
- * @author Jose Flores
+ * @author USUARIO
  */
 public class Persona {
     private final StringProperty nombre;

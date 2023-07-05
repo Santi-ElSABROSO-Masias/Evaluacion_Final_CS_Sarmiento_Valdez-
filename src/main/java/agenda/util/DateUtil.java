@@ -5,7 +5,7 @@ import java.time.format.DateTimeParseException;
 
 /**
  *
- * @author PC-Jose
+ * @author USUARIO
  */
 public class DateUtil {
     /** El patrón de fecha que se utiliza para la conversión. Cambia como quieras. */
