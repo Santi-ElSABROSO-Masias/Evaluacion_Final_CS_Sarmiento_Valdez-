@@ -1,0 +1,5 @@
+agenda\control\PersonEditDialogController.class
+agenda\util\DateUtil.class
+agenda\control\App.class
+agenda\modelo\Persona.class
+agenda\control\PersonOverviewController.class
